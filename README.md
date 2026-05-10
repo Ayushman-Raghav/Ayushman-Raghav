@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayushman Singh Raghav
 
-💬 Ask me about Business Analysis, Data Analytics, Python, SQL, Power BI, Excel, and Project Management.
+💬  Ask me about Business Analysis, Data Analytics, Python, SQL, Power BI, FastAPI, Docker, n8n, and local-first AI workflows.
 🌱 I’m currently learning and creating projects on various analytical tools.
 Feel free to have a look 
 <!---
